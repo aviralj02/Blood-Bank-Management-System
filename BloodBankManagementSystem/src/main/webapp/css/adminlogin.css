@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+*{
+	background-color: #f7ede2;
+	font-family: sans-serif; 
+}
+h1{
+	margin-left: 38%;
+	margin-top: 100px;
+}
+#pass-box{
+	margin-left: 38%;
+	margin-top: 50px;
+	border: 2px solid black;
+	border-radius: 8px;
+	width: 260px;
+	height: 180px;
+	padding-left: 40px;
+	padding-top: 45px;
+}
+.button-a1{
+	border: 2px solid black;
+	border-radius: 5px;
+	width: 60px;
+	height: 30px;
+	margin-left: 10%;
+	font-weight: bold;
+	transition: 500ms all ease;
+}
+.button-a1:hover{
+	background-color: #1cf5fb;
+}
+.input-field{
+	background-color: white;
+	margin-top: 3px;
+	border-radius: 5px;
+}
