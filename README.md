@@ -3,6 +3,7 @@ This a Maven Based Java Web Project. The Main Objective of this System is to des
 considerable information  of  the Patients,  Donors, &  Report  details  for  any  blood-related 
 organization.  The application also keeps a record of the donor’s health record for future 
 reference. Blood seekers can request for blood to the administrator.
+
 Modules: 
 1. Admin Module – View Donors list/Add/Delete Donors 
 2. Donor Module – Registration/View Blood Bank Details 
