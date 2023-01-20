@@ -22,3 +22,16 @@ Modules:
 
 ## Preview
 ![Home Page](./preview/index.png)
+ 
+ ### Donor Module
+ ![donor page](./preview/donorPage.png)
+ ![donor register](./preview/donorRegister.png)
+ ![details bb](./preview/details1.png)
+ 
+ ### Blood Bank Module
+ ![bb page](./preview/bloodBankPage.png)
+ ![details donor](./preview/details2.png)
+ 
+ ### Admin Module
+ ![Login](./preview/adminLogin.png)
+ ![operations](./preview/adminOp.png)
