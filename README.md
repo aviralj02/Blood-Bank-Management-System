@@ -19,3 +19,6 @@ Modules:
 
 ## IDE Used
 * Eclipse Enterprise Edition
+
+## Preview
+![Home Page](./preview/index.png)
